@@ -1,0 +1,22 @@
+.block{
+    background: #772f9d;
+        color: #fff;
+        padding: 10px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+}
+.block ul li
+{
+    list-style: none;
+        font-size: 13px;
+        background: #fff;
+        color: #000;
+        display: inline-block;
+        padding: 2px;
+        border-radius: 2px;
+        float: left;
+        margin:3px
+}
+.clearfix{
+    clear: both;
+}
